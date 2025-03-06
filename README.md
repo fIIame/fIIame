@@ -9,6 +9,7 @@
 
 _My backend technology stack:_  
 
-<img src="https://s2.svgbox.net/files.svg?ic=python&color=000" width="18" height="18"> **<sub>PYTHON</sub>**
-   <img src="https://s2.svgbox.net/files.svg?ic=sqlite&color=000" width="20" height="20"> **<sub>SQLite</sub>**
-   <img src="https://s2.svgbox.net/files.svg?ic=mongo&color=000" width="20" height="20"> **<sub>MONGO</sub>**
+![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-v3.36-blue?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-v4.4-green?style=flat-square&logo=mongodb&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-v2.0-red?style=flat-square&logo=flask&logoColor=white)
