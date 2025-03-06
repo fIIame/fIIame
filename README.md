@@ -26,5 +26,5 @@ ___
 
 _Contacts:_
 
-[![Telegram](https://img.shields.io/badge/Telegram-black?style=flat&logo=telegram&logoColor=biue)]("https://t.me/opi4m")
-[![VK](https://img.shields.io/badge/VK-black?style=flat&logo=vk&logoColor=blue)]("https://vk.com/michael1216")
+[![Telegram](https://img.shields.io/badge/Telegram-black?style=flat&logo=telegram&logoColor=blue)](https://t.me/opi4m)
+[![VK](https://img.shields.io/badge/VK-black?style=flat&logo=vk&logoColor=blue)](https://vk.com/michael1216)
