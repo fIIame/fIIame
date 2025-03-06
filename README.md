@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋, my name is Misha <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30" height="30"></h1>
+<h1 align="center"> Hi there 👋, my name is Misha </h1>
   
-### I'm a Backend Software Developer
+### _I'm a Backend Software Developer._
 - Enjoying programming and developing complex systems
 - Learning new languages
 - Reading lots of books 
@@ -9,7 +9,22 @@
 
 _My backend technology stack:_  
 
-![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat-square&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-v3.36-blue?style=flat-square&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-v4.4-green?style=flat-square&logo=mongodb&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-v2.0-red?style=flat-square&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=yellow)
+![SQLite](https://img.shields.io/badge/SQLite-black?style=flat-square&logo=sqlite&logoColor=blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=green)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat&logo=fastapi&logoColor=green)
+
+
+_Another insruments:_
+
+![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=red) 
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker&logoColor=blue)
+
+___
+
+_Contacts:_
+
+[![Telegram](https://img.shields.io/badge/Telegram-black?style=flat&logo=telegram&logoColor=biue)]("https://t.me/opi4m")
+[![VK](https://img.shields.io/badge/VK-black?style=flat&logo=vk&logoColor=blue)]("https://vk.com/michael1216")
