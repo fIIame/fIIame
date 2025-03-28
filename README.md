@@ -10,7 +10,7 @@
 _My backend technology stack:_  
 
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=yellow) 
-![SQLite](https://img.shields.io/badge/SQLite-black?style=flat-square&logo=sqlite&logoColor=blue)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql&logoColor=orange)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=green)
 ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&logoColor=white)
