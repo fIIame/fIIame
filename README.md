@@ -13,8 +13,11 @@ _My backend technology stack:_
 ![SQLite](https://img.shields.io/badge/SQLite-black?style=flat-square&logo=sqlite&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql&logoColor=orange)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=blue)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-black?style=flat-square&logo=sqlalchemy&logoColor=yellow)
 ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat&logo=fastapi&logoColor=green)
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi&logoColor=green)
+![Aiogram](https://img.shields.io/badge/Aiogram-black?style=flat-square&logo=telegram&logoColor=blue)
 
 
 _Another insruments:_
