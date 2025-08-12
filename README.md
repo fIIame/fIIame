@@ -25,6 +25,7 @@ _Another insruments:_
 ![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=red) 
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker&logoColor=blue)
+![Postman](https://img.shields.io/badge/Postman-black?style=flat&logo=postman&logoColor=orange)
 
 ___
 
