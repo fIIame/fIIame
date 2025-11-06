@@ -17,18 +17,13 @@
 ---
 
 ## ⚙️ Data Analysis Stack
-
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=yellow)
-![Pandas](https://img.shields.io/badge/pandas-black?style=flat-square&logo=pandas&logoColor=purple)
-![NumPy](https://img.shields.io/badge/numpy-black?style=flat-square&logo=numpy&logoColor=blue)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=purple)
+![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy&logoColor=blue)
 ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy&logoColor=orange)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat-square&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-black?style=flat-square&logo=plotly&logoColor=cyan)
-
-![SQLite](https://img.shields.io/badge/SQLite-black?style=flat-square&logo=sqlite&logoColor=blue)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql&logoColor=orange)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=blue)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-black?style=flat-square&logo=sqlalchemy&logoColor=yellow)
+![Data_Viz](https://img.shields.io/badge/Data_Viz_%28Matplotlib%2C_Seaborn%2C_Plotly%29-black?style=flat-square&logo=plotly&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_%28PostgreSQL%2C_MySQL%2C_SQLite%29-black?style=flat-square&logo=postgresql&logoColor=blue)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-black?style=flat-square&logo=sqlalchemy&logoColor=red)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=green)
 
 ---
